@@ -1,0 +1,61 @@
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.wall {
+  background-color: pink;
+  height: 40px;
+  width: 40px;
+  display: inline-block;
+}
+
+.sushi {
+  background-color: rgb(77, 76, 76);
+  height: 40px;
+  width: 40px;
+  display: inline-block;
+  background-image: url('sushi.png');
+  background-size: contain;
+}
+
+.onigiri {
+  background-color: rgb(77, 76, 76);
+  height: 40px;
+  width: 40px;
+  display: inline-block;
+  background-image: url('onigiri.png');
+  background-size: contain;
+}
+
+.blank {
+  background-color: black;
+  height: 40px;
+  width: 40px;
+  display: inline-block;
+}
+
+#score {
+  font-size: 15px;
+  font-weight: 700;
+  font-family: 'Times New Roman', Times, serif;
+  color: black;
+  text-align: left;
+}
+
+.row {
+  line-height: 0;
+}
+
+#ninjaman {
+  background-color: black;
+  height: 40px;
+  width: 40px;
+  display: inline-block;
+  background-image: url('ninja.gif');
+  background-size: contain;
+  position: absolute;
+  left: 40px;
+  top: 40px;
+}
