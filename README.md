@@ -23,3 +23,7 @@ Airplane1 challenge:
 (advanced) Modify feature: Limit player's up/down range to about 1/3rd of the bottom of the screen.
 
 Airplane2 challenge: 
+(basic) Change the color of the missiles.
+(intermediate) Make enemies move faster.
+(intermediate) Make the missiles move faster.
+(advanced) Make the game look smoother 
