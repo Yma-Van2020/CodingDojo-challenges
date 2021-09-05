@@ -1,4 +1,4 @@
-# Pre-Bootcamp
+## Mini Games
 
 Ninjia-game1:
 Getting the character to move while pressing arrowkeys 
